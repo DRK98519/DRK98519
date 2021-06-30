@@ -7,7 +7,7 @@ Concentration: Autonomy and control
 - Chinese
 - Hobbies:
     🎸 & 🏀 & 🎮 & math
-- 🌱 Currently learning:
+- 🌱 Currently learning: ![](Images/python.png)
     
 - 👯 Looking to collaborate on any beginning programmer projects.
 - 🤔 I’m looking for help with ...
