@@ -1,16 +1,17 @@
-### Hi there 👋
+### 潘龙旭 (Derek Pan) 👋
+## Purdue University Undergrad (2017 - 2021)
+Major: Aeronautical and Astronautical Engineering
+Concentration: Autonomy and control
 
-<!--
-**DRK98519/DRK98519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- Chinese
+- Hobbies:
+    🎸 & 🏀 & 🎮 & math
+- 🌱 Currently learning:
+    
+- 👯 Looking to collaborate on any beginning programmer projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
