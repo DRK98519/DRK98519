@@ -8,7 +8,7 @@ Concentration: Autonomy and control
 - Hobbies:
     🎸 & 🏀 & 🎮 & math
 - 🌱 Currently learning: 
-- <img alt="Python" height="25" src = "Images/python.png">
+    <img alt="Python" height="25" src = "Images/python.png">
     
 - 👯 Looking to collaborate on any beginning programmer projects.
 - 🤔 I’m looking for help with ...
