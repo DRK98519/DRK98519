@@ -1,6 +1,6 @@
 # 潘龙旭 (Derek Pan) 👋
-# Georgia Institute of Technology (2021 - )
-# Purdue University Undergrad (2017 - 2021)
+## Georgia Institute of Technology (2021 - )
+## Purdue University Undergrad (2017 - 2021)
 ### - Major: Aeronautical and Astronautical Engineering
 ### - Concentration: Autonomy and control
 
@@ -18,3 +18,9 @@
 <img align="left" alt="Github" height="25" src="Images/github.png">
 <img align="left" alt="Git" height="25" src="Images/git.png">
 <img align="left" alt="Terminal" height="25" src="Images/terminal.png">
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
