@@ -22,10 +22,6 @@
 <br />
 <br />
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 --- 
 <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"/>
