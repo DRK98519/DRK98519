@@ -19,8 +19,8 @@
 <img align="left" alt="Git" height="25" src="Images/git.png">
 <img align="left" alt="Terminal" height="25" src="Images/terminal.png">
 
-<br \>
-<br \>
+<br />
+<br />
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
