@@ -1,17 +1,36 @@
-name: Latest blog post workflow
+# name: Latest blog post workflow
+# on:
+#  schedule: # Run workflow automatically
+#    - cron: '0 * * * *' # Runs every hour, on the hour
+#  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+# jobs:
+#  update-readme-with-blog:
+#    name: Update this repo's README with latest blog posts
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout
+#        uses: actions/checkout@v2
+#      - name: Pull in dev.to posts
+#        uses: gautamkrishnar/blog-post-workflow@master
+#        with:
+#          feed_list: "https://dev.to/feed/DRK98519"
+
+
+name: Update README
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    - cron: '*/5 * * * *' # Update every hour
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/DRK98519"
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
