@@ -31,8 +31,8 @@
 
 <br />
 <br />
------
 
+---
 ### :zap: Recent Activities
 
 <!--START_SECTION:activity-->
