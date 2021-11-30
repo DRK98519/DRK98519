@@ -4,6 +4,7 @@
 ### - Major: Aeronautical and Astronautical Engineering
 ### - Concentration: Autonomy and control
 
+---
 
 - Chinese
 - Hobbies:
@@ -12,6 +13,7 @@
     <img alt="Python" height="25" src = "Images/python.png">
 - 👯 Looking to collaborate on any beginning programmer projects.
 
+---
 ## Skills
 <img align="left" alt="Matlab" height="25" src="Images/Matlab.png">
 <img align="left" alt="C" height="25" src="Images/c.png">
@@ -24,4 +26,14 @@
 
 
 --- 
+### :zap: My Github Stats
 <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"/>
+
+<br />
+<br />
+---
+
+### :zap: Recent Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
