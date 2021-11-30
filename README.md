@@ -31,7 +31,7 @@
 
 <br />
 <br />
----
+-----
 
 ### :zap: Recent Activities
 
@@ -42,3 +42,4 @@
 4. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
 5. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
+---
