@@ -33,7 +33,7 @@
 <br />
 
 ---
-### :zap: Recent Activities
+## :zap: Recent Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
