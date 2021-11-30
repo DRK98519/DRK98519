@@ -19,11 +19,11 @@
 
 name: Update README
 
-on:
+on: 
   schedule:
     - cron: '*/5 * * * *' # Update every hour
   workflow_dispatch:
-  pull_request:
+ 
 
 jobs:
   build:
@@ -35,4 +35,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
