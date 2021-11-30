@@ -29,11 +29,8 @@
 ### :zap: My Github Stats
 <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"/>
 
-<br />
-<br />
-
 ---
-## Recent Activities
+## :zap: Recent Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
