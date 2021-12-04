@@ -20,8 +20,9 @@
 name: Update README
 
 on: 
-  schedule:
-    - cron: '* * * * 6' # Update every hour
+  push:
+  #schedule:
+  #  - cron: '* * * * 6' # Update every hour
   workflow_dispatch:
   pull_request:
   issues:
