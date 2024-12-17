@@ -1,4 +1,4 @@
-# 潘龙旭 (Derek Pan) 👋
+# 潘龙旭 Longxu (Derek) Pan
 ### Georgia Institute of Technology (2021 - )
 ### Purdue University (2017 - 2021)
 ### - Major: Aeronautical and Astronautical Engineering
