@@ -9,8 +9,6 @@
 - Chinese
 - Hobbies:
     🎸 & 🏀 & 🎮 & math
-- 🌱 Currently learning: 
-    <img alt="Python" height="25" src = "Images/python.png">
 - 👯 Looking to collaborate on any beginning programmer projects.
 
 ---
@@ -21,6 +19,7 @@
 <img align="left" alt="Git" height="25" src="Images/git.png">
 <img align="left" alt="Terminal" height="25" src="Images/terminal.png">
 <img align="left" alt="Gurobi" height="25" src="Images/Gurobi.png">
+<img align="left" alt="Gurobi" height="25" src="Images/python.png">
 
 <br />
 <br />
