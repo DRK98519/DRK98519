@@ -26,7 +26,7 @@
 
 <p float:"left">
     <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"/>
-    <img align="right" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width="495" height="195">
+    <img align="right" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width="50%">
 </p>
 
 <br />
