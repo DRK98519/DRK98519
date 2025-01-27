@@ -20,6 +20,8 @@
 <img align="left" alt="Terminal" height="25" src="Images/terminal.png">
 <img align="left" alt="Gurobi" height="25" src="Images/Gurobi.png">
 <img align="left" alt="Gurobi" height="25" src="Images/python.png">
+<img align="left" alt="SolidWorks" height="25" src="Images/SolidWorks.png">
+<img align="left" alt="Mathematica" height="25" src="Images/Mathematica.png>
 
 <br />
 <br />
