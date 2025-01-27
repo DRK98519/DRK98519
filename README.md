@@ -24,17 +24,27 @@
 ---
 ## ⚡: My Github Stats
 
-<p float:"left">
-    <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"/>
-    <img align="right" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width="50%">
-</p>
+<!-- ![DRK98519's github stats](https://github-readme-stats.vercel.app/api?username=DRK98519&show_icons=true&count_private=true) -->
+<img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true">
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&width=90%)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="left" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width=495 height=195>
+
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+---
 ## 🚧 Recent Activities
-<img alt="DRK98519 ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=DRK98519&repo=github-readme-stats" width="30%">
+<img alt="DRK98519 ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=DRK98519&repo=github-readme-stats" width="50%">
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DRK98519&repo=github-readme-stats)](https://github.com/DRK98519/github-readme-stats) -->
-
 <br />
 
-[![DRK98519's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DRK98519&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DRK98519's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DRK98519&theme=lucent)](https://github.com/ashutosh00710/github-readme-activity-graph)
