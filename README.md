@@ -24,11 +24,11 @@
 ---
 ## ⚡: My Github Stats
 
-<!-- ![DRK98519's github stats](https://github-readme-stats.vercel.app/api?username=DRK98519&show_icons=true&count_private=true) -->
-<img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true">
+![DRK98519's github stats](https://github-readme-stats.vercel.app/api?username=DRK98519&show_icons=true&count_private=true)
+<!-- <img align="left" alt="DRK98519's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DRK98519&count_private=true"> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&width=90%)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align="left" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width=495 height=195>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&width=90%)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img align="left" alt="DP activities" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRK98519&layout=compact&theme=transparent" width=495 height=195> -->
 
 
 <br />
