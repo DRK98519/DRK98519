@@ -20,7 +20,7 @@
 <img align="left" alt="Github" height="25" src="Images/github.png">
 <img align="left" alt="Git" height="25" src="Images/git.png">
 <img align="left" alt="Terminal" height="25" src="Images/terminal.png">
-<img align="left" alt="Gurobi" height="25" src="Images/gurobi.png">
+<img align="left" alt="Gurobi" height="25" src="Images/Gurobi.png">
 
 <br />
 <br />
