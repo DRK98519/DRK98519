@@ -34,8 +34,4 @@
 
 ---
 ## 🚧 Recent Activities
-<img alt="DRK98519 ReadMe Card" src="https://github-readme-stats.vercel.app/api/pin/?username=DRK98519&repo=github-readme-stats" width="50%">
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DRK98519&repo=github-readme-stats)](https://github.com/DRK98519/github-readme-stats) -->
-<br />
-
 [![DRK98519's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DRK98519&theme=lucent)](https://github.com/ashutosh00710/github-readme-activity-graph)
